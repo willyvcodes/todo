@@ -104,7 +104,7 @@ const App = () => {
           </div>
         </Banner>
           <header>
-            <h1 className="text-center text-4xl font-bold py-4">My TODO List</h1>
+            <h1 className="text-center text-4xl font-bold py-4">My ToDo List</h1>
           </header>
           <div className="flex gap-2 border-b border-slate-900 p-4 mx-6 sm:mx-12 md:mx-18 lg:mx-24 justify-center">
             <TextInput
